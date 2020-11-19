@@ -1,5 +1,5 @@
 {
-  "name": "lco-graphql",
+  "name": "graphql-learning",
   "version": "1.0.0",
   "description": "a standard babel setup",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "babel",
     "es6"
   ],
-  "author": "hitesh choudhary",
+  "author": "Nishant sharma",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
