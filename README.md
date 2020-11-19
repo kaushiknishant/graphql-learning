@@ -1,3 +1,3 @@
-# lco-graphql
+# graphql-learning
 A standard babel setup
-Starter project setup for upcoming crash courses
+for graphql learning
